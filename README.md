@@ -1,15 +1,8 @@
-## Hello 👋
-
-I'm Sebastian. I'm from Argentina.
-
-I'm a Software Engineer with more than 7 years of experience working both in back-end and front-end. I've worked with different programming languages and platforms, such as Typescript, Golang, Java/Kotlin, AWS, GCP, etc. I have experience working with Microservices and Serverless architectures.
+I'm a Software Architect with more than 10 years of experience working both in back-end and front-end. I've worked with different programming languages and platforms, such as Typescript, Golang, Java, AWS, GCP, etc. I have experience working with Microservices and Serverless architectures.
 
 ## Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></code>
 
